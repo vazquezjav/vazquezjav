@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vazquezjav
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning software, data scientist, new technologies
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on new programming challenges, creating solutions to today's problems
 
 <!---
 vazquezjav/vazquezjav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
