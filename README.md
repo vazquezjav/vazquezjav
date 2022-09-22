@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software, data scientist, new technologies
 - 💞️ I’m looking to collaborate on new programming challenges, creating solutions to today's problems
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vazquezjav)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vazquezjav)](https://git.io/streak-stats)
 ![image](https://user-images.githubusercontent.com/34308694/173476288-97636e01-9671-437b-8293-4be3984ffef8.png)
 
 <!---
