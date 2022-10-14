@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vazquezjav)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vazquezjav)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vazquezjav&show_icons=true&theme=radical)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vazquezjav&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
