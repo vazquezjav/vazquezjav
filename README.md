@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on new programming challenges, creating solutions to today's problems
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vazquezjav)](https://git.io/streak-stats)
-![image](https://user-images.githubusercontent.com/34308694/173476288-97636e01-9671-437b-8293-4be3984ffef8.png)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vazquezjav)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 vazquezjav/vazquezjav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
